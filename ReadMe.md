@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Aniket Mahesh Mogal!
 
 Welcome to my GitHub profile! I'm a passionate software developer with a strong interest in building efficient and scalable backend systems. Currently, I'm pursuing my degree in Computer Science at MIT-WPU, and I am constantly learning new technologies and improving my skill set.
 
