@@ -1,162 +1,100 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Aniket+Mahesh+Mogal!;Associate+Software+Engineer+%40+Amdocs;BTech+Computer+Science+Graduate;Passionate+Backend+Developer" alt="Typing SVG" />
-</div>
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there+👋,+I'm+Aniket+Mahesh+Mogal!;Backend+Developer+%7C+ASE+@+Amdocs;Coffee+%E2%98%95+%7C+Code+💻+%7C+Create+🚀" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/👋-Hello-00D4FF?style=for-the-badge&logoColor=white" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀-Welcome-00D4FF?style=for-the-badge&logoColor=white" />
-</div>
-
-## 🚀 About Me
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💻-Backend%20Developer-00D4FF?style=for-the-badge&logoColor=white" />
-</div>
-
-- 🎓 **Graduated** with BTech in Computer Science from MIT-WPU
-- 💼 **Currently** working as Associate Software Engineer at **Amdocs**
-- 🔧 **Passionate** about building scalable backend systems and solving complex problems
-- 🚀 **Journey** started with C, C++, Java and expanded to modern web technologies
-- 📚 **Always learning** new technologies, frameworks, and architectural patterns
-- 🌟 **Love** contributing to open source and building projects that make a difference
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🛠️-Tech%20Stack-00D4FF?style=for-the-badge&logoColor=white" />
-</div>
-
-### 💻 Programming Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-### 🚀 Frameworks & Libraries
-<div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
-
-### 🗄️ Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-
-### ☁️ Cloud & DevOps
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-## 🏆 Professional Journey
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🏆-Professional%20Journey-00D4FF?style=for-the-badge&logoColor=white" />
-</div>
-
-### 💼 Current Role
-- **Associate Software Engineer** at **Amdocs** 🚀
-- Building scalable enterprise solutions and backend systems
-- Contributing to mission-critical telecommunications software
-
-### 🎓 Education
-- **BTech in Computer Science** from MIT-WPU (Graduated)
-- Specialized in backend development and system architecture
-
-### 🌟 Key Achievements
-- Successfully transitioned from student to professional software engineer
-- Built robust APIs and microservices architectures
-- Implemented CI/CD pipelines for automated deployments
-- Contributed to enterprise-level software solutions
-
-## 🌱 Currently Learning & Growing
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🌱-Learning%20%26%20Growing-00D4FF?style=for-the-badge&logoColor=white" />
-</div>
-
-- **Microservices Architecture**: Designing and implementing distributed systems
-- **Cloud Native Technologies**: Kubernetes, Docker, and cloud platforms
-- **Advanced DevOps**: Infrastructure as Code, monitoring, and observability
-- **System Design**: Scalable architecture patterns and best practices
-- **Machine Learning**: Exploring AI/ML integration in backend systems
-
-## 💡 Beyond Code
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💡-Beyond%20Code-00D4FF?style=for-the-badge&logoColor=white" />
-</div>
-
-- 🔍 **Always curious** about new technologies and how they work under the hood
-- 💪 **Fitness enthusiast** - you'll find me at the gym lifting weights
-- ☕ **Coffee lover** - exploring new cafes and brewing techniques
-- 🌍 **Tech explorer** - constantly discovering innovative solutions
-- 🤝 **Collaborative spirit** - love working in teams and mentoring others
-- 📖 **Continuous learner** - believe in lifelong learning and growth
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://img.shields.io/badge/📊-GitHub%20Analytics-00D4FF?style=for-the-badge&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anniop&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anniop&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anniop&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anniop&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
-
-## 💬 Connect With Me
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💬-Let's%20Connect-00D4FF?style=for-the-badge&logoColor=white" />
-</div>
-
-<div align="center">
+<!-- social badges -->
+<p align="center">
   <a href="https://www.linkedin.com/in/aniket-mogal-9b9b4a1b9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mogalaniket1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/Ann_i0p" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%8A;Let's+connect+and+build+something+amazing+together!;Happy+coding!+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+### 🚀 About Me
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=anniop&icon=10&color=0" />
-</div>
+- 🧑‍💻 **Backend Developer** | **Associate Software Engineer @ Amdocs**
+- 🎓 B.Tech (Computer Science) – MIT-WPU
+- 🔥 Passionate about designing scalable backend systems & distributed architectures
+- ☁️ Loves working with **Microservices, Cloud, DevOps & System Design**
+- 📌 Always learning, building, and breaking things to understand *how they work under the hood*
+
+---
+
+### 🛠 Tech Stack
+
+**Languages:**  
+`Go` • `Java` • `JavaScript` • `TypeScript` • `C/C++` • `Python`
+
+**Backend & Frameworks:**  
+`Spring Boot` • `FastAPI` • `Node.js` • `Express`
+
+**Databases:**  
+`MySQL` • `PostgreSQL` • `MongoDB`
+
+**DevOps & Cloud:**  
+`Docker` • `Kubernetes` • `AWS` • `Jenkins` • `Git`
+
+---
+
+### 🌱 Currently Exploring
+- Microservices & Event-Driven Architecture  
+- Kubernetes, AWS & Cloud-Native tech  
+- Scalable System Design  
+- CI/CD, Monitoring & Observability
+
+---
+
+### 📌 Projects (add links later if public)
+- ✅ **Microservices Architecture Demo**
+- ✅ **FastAPI + React Full-Stack App**
+- ✅ **CI/CD Pipeline Setup with Jenkins & Docker**
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anniop&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anniop&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anniop&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+---
+
+### 💡 Beyond Code
+- 🏋️ Fitness & Weight Training  
+- ☕ Coffee Lover  
+- 🤝 Team Player & Tech Explorer  
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aniket-mogal-9b9b4a1b9">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:mogalaniket1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail" />
+  </a>
+  <a href="https://x.com/Ann_i0p">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+🙌;Let's+build+something+awesome+🚀" />
+</p>
