@@ -3,19 +3,19 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/anniop/anniop/blob/main/gifs/wave.gif" width="30px">
+  <img src="https://img.shields.io/badge/👋-Hello-00D4FF?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/anniop/anniop/blob/main/gifs/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://img.shields.io/badge/🚀-Welcome-00D4FF?style=for-the-badge&logoColor=white" />
 </div>
 
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://github.com/anniop/anniop/blob/main/gifs/coding.gif" width="400" height="300"/>
+  <img src="https://img.shields.io/badge/💻-Backend%20Developer-00D4FF?style=for-the-badge&logoColor=white" />
 </div>
 
 - 🎓 **Graduated** with BTech in Computer Science from MIT-WPU
@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://github.com/anniop/anniop/blob/main/gifs/techstack.gif" width="500" height="300"/>
+  <img src="https://img.shields.io/badge/🛠️-Tech%20Stack-00D4FF?style=for-the-badge&logoColor=white" />
 </div>
 
 ### 💻 Programming Languages
@@ -69,7 +69,7 @@
 ## 🏆 Professional Journey
 
 <div align="center">
-  <img src="https://github.com/anniop/anniop/blob/main/gifs/achievement.gif" width="400" height="300"/>
+  <img src="https://img.shields.io/badge/🏆-Professional%20Journey-00D4FF?style=for-the-badge&logoColor=white" />
 </div>
 
 ### 💼 Current Role
@@ -90,7 +90,7 @@
 ## 🌱 Currently Learning & Growing
 
 <div align="center">
-  <img src="https://github.com/anniop/anniop/blob/main/gifs/learning.gif" width="400" height="300"/>
+  <img src="https://img.shields.io/badge/🌱-Learning%20%26%20Growing-00D4FF?style=for-the-badge&logoColor=white" />
 </div>
 
 - **Microservices Architecture**: Designing and implementing distributed systems
@@ -102,7 +102,7 @@
 ## 💡 Beyond Code
 
 <div align="center">
-  <img src="https://github.com/anniop/anniop/blob/main/gifs/funfacts.gif" width="400" height="300"/>
+  <img src="https://img.shields.io/badge/💡-Beyond%20Code-00D4FF?style=for-the-badge&logoColor=white" />
 </div>
 
 - 🔍 **Always curious** about new technologies and how they work under the hood
@@ -115,7 +115,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github.com/anniop/anniop/blob/main/gifs/githubstats.gif" width="500" height="300"/>
+  <img src="https://img.shields.io/badge/📊-GitHub%20Analytics-00D4FF?style=for-the-badge&logoColor=white" />
 </div>
 
 <div align="center">
@@ -136,7 +136,7 @@
 ## 💬 Connect With Me
 
 <div align="center">
-  <img src="https://github.com/anniop/anniop/blob/main/gifs/connect.gif" width="400" height="300"/>
+  <img src="https://img.shields.io/badge/💬-Let's%20Connect-00D4FF?style=for-the-badge&logoColor=white" />
 </div>
 
 <div align="center">
